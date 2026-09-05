@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+
+# Домашние задания / отчёты
+Отчет по ДЗ.docx
+
+# Служебные скрипты
+_probe.py
